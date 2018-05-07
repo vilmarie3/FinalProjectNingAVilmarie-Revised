@@ -95,7 +95,6 @@ public class CheckOut extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(Intent.ACTION_SENDTO);
                 intent.setData(Uri.parse("mailto: "));
-
                 intent.putExtra(Intent.EXTRA_SUBJECT, "Your TC Easy reservation");
                 intent.putExtra(Intent.EXTRA_TEXT, orderSummary.toString());
 
