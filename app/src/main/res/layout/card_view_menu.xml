@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    app:cardElevation="@dimen/cardview_compat_inset_shadow"
+    app:cardCornerRadius="@dimen/cardview_compat_inset_shadow"
+    app:cardUseCompatPadding="true"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_height="200dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/menu_item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:fontFamily="@font/gentium_basic_bold"
+            android:text="Circle"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:id="@+id/menu_item_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignTop="@+id/menu_item_picture"
+            android:layout_marginRight="25dp"
+            android:fontFamily="@font/gentium_basic_bold"
+            android:text="@string/$5"
+
+            />
+
+        <ImageView
+            android:id="@+id/menu_item_picture"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitXY"
+            android:layout_marginBottom="30dp"
+            android:src="@drawable/circle1" />
+
+        <TextView
+            android:id="@+id/menu_item_description"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/menu_item_name"
+            android:layout_marginLeft="15sp"
+            android:layout_marginTop="30dp"
+            android:text="msngi" />
+
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

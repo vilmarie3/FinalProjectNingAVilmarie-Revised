@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "736711656894",
+    "firebase_url": "https://finalprojectningavimarie.firebaseio.com",
+    "project_id": "finalprojectningavimarie",
+    "storage_bucket": "finalprojectningavimarie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736711656894:android:4dc8fa868ce56b15",
+        "android_client_info": {
+          "package_name": "com.example.android.finalproject_ningavimarie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736711656894-5b8891b1r91v0usf9qcs4n5li70uveid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.finalproject_ningavimarie",
+            "certificate_hash": "6e32cd77b5febe34f3cbd59d38ab745293bc30e4"
+          }
+        },
+        {
+          "client_id": "736711656894-gjbp1ks1b0tojpjb1rqcbqhfphbusbgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.finalproject_ningavimarie",
+            "certificate_hash": "734a394e022837da449d0d7699f216f6e4319de0"
+          }
+        },
+        {
+          "client_id": "736711656894-3d2voranh88gp42btdp406alo2ue68f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3dQkVpmBEBUnQITVrGexxWLaQRPWPOLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736711656894-3d2voranh88gp42btdp406alo2ue68f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

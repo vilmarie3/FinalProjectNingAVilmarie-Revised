@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Final Project-NingA&amp;Vimarie</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name_on_reservation">Name on reservation</string>
+    <string name="email">Email</string>
+    <string name="or">OR</string>
+    <string name="pre_order_options">Pre-Order Options</string>
+    <string name="order_food_at_restaurant">Order Food at Restaurant</string>
+    <string name="pre_order_food">Pre-Order Food</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="google_status_fmt">google User: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="menu">Menu</string>
+    <string name="have_food_ready">Have Food Ready:</string>
+    <string name="_30_minutes_into_reservation">30 minutes into reservation</string>
+    <string name="_10_minutes_into_reservation">10 minutes into reservation</string>
+
+    <!-- Strings relates to menu items titles -->
+    <string name="spinach_artichoke_dip_title">Spinach and Artichoke Dip</string>
+    <string name="queso_dip_title">Queso Dip</string>
+    <string name="fried_cheese_title">Fried Cheese</string>
+    <string name="beer_cheese_spread_title">Beer Cheese Spread</string>
+    <string name="mozzarella_sticks_title">Mozzarella Sticks</string>
+    <string name="bacon_wrapped_shrimp_title">Bacon Wrapped Shrimp (x5) </string>
+    <string name="garlic_bread_title">Garlic Bread</string>
+    <string name="cheesy_garlic_bread_title">Cheesy Garlic Bread</string>
+    <string name="blue_cheese_biscuits_title">Blue Cheese Biscuits</string>
+    <string name="burger_one_title">Keep it simple</string>
+    <string name="burger_two_title">Where\'s the bacon, Guinness?</string>
+    <string name="burger_three_title">Salamama</string>
+    <string name="burger_four_title">It\'s getting hot hot hot</string>
+    <string name="burger_five_title">Give me the greens</string>
+    <string name="burger_six_title">Red and White</string>
+    <string name="burger_seven_title">Snack Attack</string>
+    <string name="burger_eight_title">Rice and Beans</string>
+    <string name="chocolate_milkshake_title">Chocolate Milkshake</string>
+    <string name="vanilla_milkshake_title">Vanilla Milkshake</string>
+    <string name="strawberry_milkshake_title">Strawberry Milkshake</string>
+    <string name="cookie_milkshake">Cookies \'n Cream Milkshake</string>
+    <string name="chocolate_cake_title">Chocolate Lava Cake</string>
+    <string name="tiramisu_title">Tiramisu</string>
+    <string name="kahlua_cheesecake_title">Kahlua Cheesecake</string>
+    <string name="classic_cheesecake_title">Classic Cheesecake</string>
+    <string name="chocolate_cheesecake_title">Chocolate Cheesecake</string>
+    <string name="marble_cheesecake_title">Marble Cheesecake</string>
+    <string name="guava_cheese_title">Guava Paste and Queso Fresco</string>
+    <string name="water_title">Water</string>
+    <string name="sparkling_water_title">Sparkling Water</string>
+    <string name="tea_title">Tea</string>
+    <string name="coffee_title">Coffee</string>
+    <string name="cappucino_title">Cappucino</string>
+    <string name="coke_title">Coke</string>
+    <string name="diet_coke_title">Diet Coke Title</string>
+    <string name="lemonade_title">Lemonade</string>
+
+    <!-- Strings related to menu items descriptions -->
+
+    <string name="spinach_and_artichoke_dip_description">Creamy spinach and artichoke dip served with homemade chips</string>
+    <string name="queso_dip_description">Cheese lovers\' favorite appetizer. Served hot with homemade chips</string>
+    <string name="fried_cheese_description">Fried "queso fresco" with a side of mayoketchup</string>
+    <string name="beer_cheese_spread_description">Slow melted cheese infused with amber beer. Served with homemade chips</string>
+    <string name="mozzarella_sticks_description">Mozzarella sticks served with marinara sauce</string>
+    <string name="bacon_wrapped_shrimp_description">Oven-baked shrimp wrapped in applewood smoked bacon</string>
+    <string name="blue_cheese_biscuits_description">Savory blue cheese biscuits served with bacon date jam </string>
+    <string name="burger_one_description">Lettuce, tomato, pickles</string>
+    <string name="burger_two_description">Cheddar-stuffed patty cooked with Guinness Beer. Topped with Applewood smoked bacon</string>
+    <string name="burger_three_description">Crispy salami and sun-dried tomato</string>
+    <string name="burger_four_description">BBQ sauce, pepper jack cheese, and jalapeños</string>
+    <string name="burger_five_description">Cheddar cheese, avocado, and sprouts</string>
+    <string name="burger_six_description">Roasted peppers and manchego cheese</string>
+    <string name="burger_seven_description">Onion dip and potato chips</string>
+    <string name="burger_eight_description">Brown rice and blakc beans</string>
+    <string name="no_description"> </string>
+
+    <!--Strings related to prices -->
+
+
+    <string name="$15">$15</string>
+    <string name="$14">$14</string>
+    <string name="$13">$13</string>
+    <string name="$12">$12</string>
+    <string name="$11">$11</string>
+    <string name="$10">$10</string>
+    <string name="$9">$9</string>
+    <string name="$8">$8</string>
+    <string name="$7">$7</string>
+    <string name="$6">$6</string>
+    <string name="$5">$5</string>
+    <string name="$4">$4</string>
+    <string name="$3">$3</string>
+    <string name="$2">$2</string>
+    <string name="$1">$1</string>
+
+
+    <string name="you_are_all_set">You are all set!</string>
+    <string name="tc_easy">TC Easy</string>
+    <string name="tc_easy_info"> 525 W 120th St  \n  (999)777\-8888 \n www.tceasy.com</string>
+    <string name="email_confirmation">Email Confirmation</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">ADD</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="food">Food</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="reservations_made_easy">Reservations made easy</string>
+    <string name="sign_in_with_tc_easy_account">Sign in with TC Easy Account</string>
+    <string name="new_to_tc_easy_sign_up">New to TC EASY? Sign Up!</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="use_your_email_to_sign_in">Use your email to sign in</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="not_a_user">Not a user?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="end_message">We will see you soon,  </string>
+    <string name="find_my_table">find my table!</string>
+    <string name="pm">pm</string>
+    <string name="sign_up_login_screen">Sign up!</string>
+    <string name="switch_user">Switch User</string>
+    <string name="already_have_an_account_with_tc_easy">Already have an account with TC Easy?</string>
+    <string name="log_off_and_switch_user">Log Off and Switch User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="start_the_tc_easy_way_now">Start the TC easy way now</string>
+
+
+</resources>

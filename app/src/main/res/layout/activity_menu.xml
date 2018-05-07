@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/menu_itemlist_id"
+    tools:context=".MenuActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu"
+        app:fontFamily="@font/gentium_basic_bold"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:textSize="30sp"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_margin="8dp"
+        android:layout_height="300dp">
+
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/have_food_ready"
+        app:fontFamily="@font/gentium_basic_bold"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:textSize="20sp"
+        />
+
+    <RadioGroup
+        android:id="@+id/order_food_radio_grp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fontFamily="@font/gentium_basic_bold"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/ten_minutes_radioB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_10_minutes_into_reservation"
+            android:checked="false"
+            android:fontFamily="@font/gentium_basic_bold"
+            android:layout_margin="10dp"
+           />
+        <RadioButton
+            android:id="@+id/thirty_minutes_radioB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_30_minutes_into_reservation"
+            android:checked="false"
+            android:fontFamily="@font/gentium_basic_bold"
+            android:layout_margin="10dp"/>
+
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/confirm_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/confirm"
+        app:fontFamily="@font/gentium_basic_bold"
+        android:background="@color/colorAccent"
+        android:layout_margin="10dp"/>
+
+
+
+</LinearLayout>
