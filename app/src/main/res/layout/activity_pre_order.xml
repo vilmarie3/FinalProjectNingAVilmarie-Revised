@@ -54,7 +54,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="50dp"
-        android:onClick="decideMenu"
         android:background="@color/colorAccent"
         android:text="@string/confirm"
         app:fontFamily="@font/gentium_basic_bold" />
