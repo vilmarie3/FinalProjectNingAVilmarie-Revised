@@ -111,6 +111,5 @@ public class CheckOut extends AppCompatActivity {
                 fAuth.signOut();
             }
         });
-
     }
 }
